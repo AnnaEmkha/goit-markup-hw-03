@@ -126,7 +126,7 @@ address {
 
 }
 
-.contacts-list {
+.address .ul {
  display: flex;
  gap: 40px;
 }
