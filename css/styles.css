@@ -98,7 +98,7 @@ align-items: center;
 address {
   font-style: normal;
 }
-.header-menu-list {
+.address.ul {
   display: flex;
   gap: 40px;
 }
