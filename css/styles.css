@@ -223,6 +223,9 @@ button:focus {
 }
 
 /*team*/
+.team-seaction {
+  padding: 120px 0;
+}
 .team-seaction-conteiner {
   padding-top: 120px;
   padding-bottom: 120px;
@@ -253,9 +256,14 @@ button:focus {
 }
 .team-seaction-item {
   background-color: #ffffff;
+  border-radius: 0px 0px 4px 4px;
 }
 
 /*portfolio*/
+.portfolio-section {
+  padding-top: 120px; 
+  padding-bottom: 120px;
+}
 .portfolio-container {
   padding-top: 120px;
   padding-bottom: 120px;
@@ -273,6 +281,7 @@ button:focus {
 }
 .portfolio-content {
   padding: 32px 16px;
+  border: 1px solid #e7e9fc;
 }
 
 /*footer*/
