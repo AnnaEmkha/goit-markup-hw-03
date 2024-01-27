@@ -163,6 +163,10 @@ address {
   background-color: #4d5ae5;
   color: #ffffff;
   cursor: pointer;
+  min-width: 169px;
+  border: none;
+  height: 56px;
+  border-radius: 4px;
 }
 button:hover {
   background-color: #404bbf;
