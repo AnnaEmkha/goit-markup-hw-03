@@ -176,9 +176,14 @@ button:focus {
 }
 
 /*feature*/
-.hidden {
+.visually-hidden {
   display: none;
+  
 }
+.features-section {
+  padding: 120px 0;
+}
+
 .features-container {
   padding-top: 120px;
   padding-bottom: 120px;
