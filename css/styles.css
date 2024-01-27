@@ -288,7 +288,7 @@ footer {
   margin-top: 16px;
   max-width: 264px;
 }
-.footer.logo {
+footer .logo {
   display: inline-block;
   margin-bottom: 16px;
 }
